@@ -1,7 +1,7 @@
 # Awesome-lists-about-1C-tools
 Полезные ссылки
 
-
+```
 * Демо репозиторий (https://github.com/otymko/infostart2020-nsk-example)
 * PhoenixBSL (https://github.com/otymko/phoenixbsl)
 * BSL Language Server (https://github.com/1c-syntax/bsl-language-server)
@@ -25,3 +25,4 @@
 * Имя базы в заголовок конфигуратора https://infostart.ru/public/462685/
 * Менеджер буфера обмена https://www.nakka.com/soft/clcl/index_rus.html
 * Чистка кэша https://github.com/vbondarevsky/OneCleaner
+```
