@@ -1,7 +1,7 @@
 # Awesome-lists-about-1C-tools
 Полезные ссылки
 
-```
+
 * Демо репозиторий (https://github.com/otymko/infostart2020-nsk-example)
 * PhoenixBSL (https://github.com/otymko/phoenixbsl)
 * BSL Language Server (https://github.com/1c-syntax/bsl-language-server)
@@ -20,9 +20,9 @@
 * 1С:Автоматизированная проверка конфигураций (https://v8.1c.ru/tekhnologii/1s-avtomatizirovannaya-proverka-konfiguratsiy/)
 * SonarQube (https://www.sonarqube.org/)
 * SonarQube 1C (BSL) Community Plugin (https://github.com/1c-syntax/sonar-bsl-plugin-community)
+* Postgres для использования в составе кластера 1С (https://1c.postgres.ru/)
 
 
 * Имя базы в заголовок конфигуратора https://infostart.ru/public/462685/
 * Менеджер буфера обмена https://www.nakka.com/soft/clcl/index_rus.html
 * Чистка кэша https://github.com/vbondarevsky/OneCleaner
-```
