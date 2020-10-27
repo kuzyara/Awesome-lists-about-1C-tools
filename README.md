@@ -4,7 +4,7 @@
 
 * Демо репозиторий (https://github.com/otymko/infostart2020-nsk-example)
 * PhoenixBSL (https://github.com/otymko/phoenixbsl)
-* BSL Language Server (https://github.com/1c-syntax/bsl-language-server)
+* BSL Language Server (https://github.com/1c-syntax/bsl-language-server) - устарел, новый: https://github.com/otymko/bslls-connector-for-edt
 * SmartConfigurator (https://github.com/ret-Phoenix/SmartConfigurator)
 * TurboConf (https://turboconf.ru/)
 * Снегопат (https://snegopat.ru/)
